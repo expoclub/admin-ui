@@ -11,3 +11,5 @@ npm i --save mysql
 npm start
 admin lte templates views file copy after paste innew project views in  paste all files
 after publuc ke under  dis,images,pages,plugins,stylesheet this files copy in public folder
+index.js file change new router create three different.
+index2.ejs filewith dashboard so dashboard remove.
